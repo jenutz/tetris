@@ -1,0 +1,6 @@
+TODO
+*.conf
+*.txt
+build/
+.cache/
+.vscode/
